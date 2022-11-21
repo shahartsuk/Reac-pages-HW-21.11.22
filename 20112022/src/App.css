@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  background-color: grey;
+  height: 100vh;
+}
+@media only screen and (max-width: 800px) {
+  .section-name {
+    display: none;
+  }
+  .list {
+    width: 60px;
+  }
+}
