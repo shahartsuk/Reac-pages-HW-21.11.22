@@ -1,21 +1,7 @@
 .App {
   height: 100vh;
   width: 100%;
-  background-color: royalblue;
-}
-.list-style {
-  list-style: none;
+  background-color: aqua;
   display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-.list-style li:last-child {
-  margin-bottom: 15px;
-}
-.list-item-container {
-  display: flex;
-}
-.content {
-  overflow: auto;
-  margin-left: 20px;
+  justify-content: center;
 }
