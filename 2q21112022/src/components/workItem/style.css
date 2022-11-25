@@ -1,5 +1,8 @@
-.cardTask{
-display: flex;
-flex-direction: column;
-align-items:center ;
+.cardTask {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.delete {
+  display: none;
 }
